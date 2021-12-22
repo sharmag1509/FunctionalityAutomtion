@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <test name="Test">
+<classes>
+   		<class name="com.inquiry.tests.LoginTest"/>
+   		<class name="com.inquiry.tests.AdvancedoverlapTest"/>
+   		<class name="com.inquiry.tests.AdvanceGroupReportTest"/> 
+   		<class name="com.inquiry.tests.AdvanceOver_IndvTest"/>
+   		<class name="com.inquiry.tests.base_Report_1_1_Test"/>
+   		<class name="com.inquiry.tests.base_Plus_Report_1_0_Test"/>
+		<class name="com.inquiry.tests.base_Plus_Report_1_1_Test"/>
+		<class name="com.inquiry.tests.base_Report_With_Score_2_0_Test"/>
+		<class name="com.inquiry.tests.Base_Plus_Report_WithScore_2_0_Test"/>
+    	<class name="com.inquiry.tests.commercialAcePlus_2Test"/>
+   	 	<class name="com.inquiry.tests.commercialAcePlus_3_Test"/>
+    	<class name="com.inquiry.tests.commercialAcePlus_2Test"/>
+     	<class name="com.inquiry.tests.commercialAcePlus_3_Test"/>
+ 	 	<class name="com.inquiry.tests.indvTest"/> 
+ 	 	<class name="com.inquiry.tests.verification_1_3_Test"/>
+   	 	<class name="com.inquiry.tests.verification_2_Test"/> 
+   	 	 
+   	 	 
+</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+<!--   
+<class name="com.inquiry.tests.LoginTest"/>
+   		<class name="com.inquiry.tests.AdvancedoverlapTest"/>
+   		<class name="com.inquiry.tests.AdvanceGroupReportTest"/> 
+   		<class name="com.inquiry.tests.AdvanceOver_IndvTest"/>
+   		<class name="com.inquiry.tests.base_Report_1_1_Test"/>
+   		<class name="com.inquiry.tests.base_Plus_Report_1_0_Test"/>
+		<class name="com.inquiry.tests.base_Plus_Report_1_1_Test"/>
+		<class name="com.inquiry.tests.base_Report_With_Score_2_0_Test"/>
+		<class name="com.inquiry.tests.Base_Plus_Report_WithScore_2_0_Test"/>
+    	<class name="com.inquiry.tests.commercialAcePlus_2Test"/>
+   	 	<class name="com.inquiry.tests.commercialAcePlus_3_Test"/>
+    	<class name="com.inquiry.tests.commercialAcePlus_2Test"/>
+     	<class name="com.inquiry.tests.commercialAcePlus_3_Test"/>
+ 	 	<class name="com.inquiry.tests.verification_1_3_Test"/>
+   	 	<class name="com.inquiry.tests.verification_2_Test"/> 
+   
+ -->
